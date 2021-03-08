@@ -1,0 +1,20 @@
+ELECTRONIC MEDICAL RECORD REQUIREMENTS
+=======================================
+
+PERSONAL INFORMATION
+--------------------
+Name, Address, Age, Contact info, IC/Passport Number, Caretaker information
+
+
+MEDICAL INFORMATION
+-------------------
+Medication, Surgical Procedures, Major Illness, Vaccinations, Diagnosis, Lab Results
+
+===============================================
+SELECTED DATA FIELD TO BE STORED  IN BLOCKCHAIN
+===============================================
+
+Name, Address, Age, Contact info, IC/Passport Number, Caretaker information, Major Illness, Diagnosis, Lab Results
+
+--- SUMMARY ---
+9 items have been selected as the sensitive data that need to be stored in a blockchain
